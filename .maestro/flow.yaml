@@ -1,0 +1,8 @@
+appId: com.productsapp
+---
+- launchApp:
+    appId: com.productsapp
+    clearState: true
+- openLink: exp://192.168.1.200:19001
+
+- tapOn: "Apple iPhone 13 256GB Pink"
